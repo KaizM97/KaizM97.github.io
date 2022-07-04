@@ -43,8 +43,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  
-  Hiiiii
+ Having completed the Higher national diploma in electrical and
+electronics engineering with one year of experience, I am interested
+in a job where I can gain long-term experience in the field. As a fast
+learner who can adapt quickly to any environment, I would appreciate
+it if you could give me the opportunity to work with your organization.
   
 content:
   - title: Projects # Title for the section
